@@ -26,19 +26,19 @@
 
 ### 1차원 배열 다루기
 
-1. **UVA 10038 - Jolly Jumpers**
+1. **UVA 10038;BOJ 4383 - Jolly Jumpers**
 2. **UVA 11340 - Newspaper**
-3. **UVA 12356 - Army Buddies**
-4. *UVA 00230 - Borrowers*
-5. *UVA00665 - False Coin*
+3. **UVA 12356;BOJ 5680 - Army Buddies**
+4. *UVA 00230; - Borrowers*
+5. *UVA 00665;BOJ 7441 - False Coin*
 6. *UVA 11093 - Just Finish it up*
-7. *UVA 12150 - Pole Position*
+7. *UVA 12150;BOJ 5725 - Pole Position*
 
 ### 2차원 배열 다루기
 
 1. **UVA 10855 - Rotated squares**
 2. **UVA 10920 - Spiral Tap**
 3. **UVA 11581 - Gird Successors**
-4. *UVA 12187 - Brothers*
-5. *UVA 12291 - Polyomino Composer*
+4. *UVA 12187;BOJ 5707 - Brothers*
+5. *UVA 12291; - Polyomino Composer*
 6. *UVA 12398 - NumPuzz I*
