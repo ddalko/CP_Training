@@ -24,19 +24,19 @@
 - **UVA 10954 - Add All**
 - **UVA 11995 - I Can Guess**
 
-# Week #9
+# Week#9
 ### 그래프 자료 구조 문제
 - **UVA 00599 - The Forrest for the Trees**
 - **UVA 10895 - Matrix Transpose**
 - **UVA 11991 - Easy Problem from …**
 
-# Week #10
+# Week#10
 ### Union-Find 상호 배타적 집합
 - **UVA 00793 - Network Connections**
 - **UVA 10507 - Waking up brain**
 - **UVA 11503 - Virtual Friends**
 
-# Week #11(Last week of Nov)
+# Week#11(Last week of Nov)
 ### 트리와 관련된 자료 구조
 - **UVA 11235 - Frequent Values**
 - **UVA 11402 - Ahoy, Pirates**
